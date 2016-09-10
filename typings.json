@@ -1,0 +1,9 @@
+{
+  "name": "native-base",
+  "resolution": "main",
+  "dependencies": {},
+  "globalDependencies": {
+    "react": "registry:dt/react#0.14.0+20160829191040",
+    "react-native": "registry:dt/react-native#0.29.0+20160830141535"
+  }
+}
