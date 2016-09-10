@@ -230,8 +230,8 @@ declare module 'native-base' {
      * see Widget CardItem.js
      */
     interface CardItem extends TouchableOpacityProperties {
-      header: boolean,
-      cardBody: boolean
+      header?: boolean,
+      cardBody?: boolean
     }
     /**
      * see Widget Card.js
