@@ -1,5 +1,5 @@
 {
-  "name": "@types/native-base",
+  "name": "typed-native-base",
   "version": "0.0.1",
   "description": "Type definitions for native-base",
   "main": "",
