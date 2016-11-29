@@ -173,6 +173,7 @@ declare module 'native-base' {
              * Disables onPress option for button
              */
             disabled?: boolean,
+            active?: boolean,
             inputButton?: boolean,
         }
         /**
