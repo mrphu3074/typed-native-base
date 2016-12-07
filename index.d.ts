@@ -416,7 +416,9 @@ declare module 'native-base' {
         /**
          * see Widget Textarea.js
          */
-        interface Textarea extends React.TextInputProperties { }
+        interface Textarea extends React.TextInputProperties {
+            rowSpan: number;
+        }
         /**
          * see Widget Icon.js
          */
