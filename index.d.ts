@@ -142,6 +142,7 @@ declare module 'native-base' {
             danger?: boolean,
             warning?: boolean,
             info?: boolean,
+            color?: string,
             /**
              * Applies outline button style.
              */
